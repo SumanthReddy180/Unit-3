@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe2"
+  },
+  "Name": "Dhoni",
+  "jerseyNumber": 7,
+  "position": "wicket keeper",
+  "wicketstaken": 2,
+  "runs scored": 49,
+  "catches": 1,
+  "bowlingovers": 0
+},
+{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe3"
+  },
+  "Name": "Kohli",
+  "jerseyNumber": 18,
+  "position": "boundary",
+  "wicketstaken": 2,
+  "runs scored": 40,
+  "catches": 2,
+  "bowlingovers": "0"
+},
+{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe4"
+  },
+  "Name": "Hardik",
+  "jerseyNumber": 33,
+  "position": "infield",
+  "wicketstaken": 2,
+  "runs scored": 20,
+  "catches": 2,
+  "bowlingovers": 4
+},
+{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe5"
+  },
+  "Name": "Rohith",
+  "jerseyNumber": 45,
+  "position": "infield",
+  "wicketstaken": 0,
+  "runs scored": 60,
+  "catches": 0,
+  "bowlingovers": 0
+},
+{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe6"
+  },
+  "Name": "KL Rahul",
+  "jerseyNumber": 1,
+  "position": "infield",
+  "wicketstaken": 1,
+  "runs scored": 50,
+  "catches": 1,
+  "bowlingovers": 0
+}]
